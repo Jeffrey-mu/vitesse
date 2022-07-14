@@ -9,8 +9,8 @@ const toggleLocales = () => {
 </script>
 
 <template>
-  <nav text-xl mt-6>
-    <RouterLink class="icon-btn mx-2" to="/" :title="t('button.home')">
+  <nav text-xl mb-6>
+    <RouterLink text-left class="icon-btn mx-2" to="/" :title="t('button.home')">
       <div i-carbon-campsite />
     </RouterLink>
 
@@ -26,7 +26,7 @@ const toggleLocales = () => {
       <div i-carbon-dicom-overlay />
     </RouterLink>
 
-    <a class="icon-btn mx-2" rel="noreferrer" href="https://github.com/antfu/vitesse" target="_blank" title="GitHub">
+    <a class="icon-btn mx-2" rel="noreferrer" href="https://github.com/Jeffrey-mu/vitesse" target="_blank" title="GitHub">
       <div i-carbon-logo-github />
     </a>
   </nav>
