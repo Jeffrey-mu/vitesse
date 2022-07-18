@@ -10,7 +10,8 @@
     "test": "vitest",
     "test:e2e": "cypress open",
     "test:unit": "vitest",
-    "typecheck": "vue-tsc --noEmit"
+    "typecheck": "vue-tsc --noEmit",
+    "gdep": "vite-ssg build && gh-pages -d dist"
   },
   "dependencies": {
     "@vueuse/core": "^8.9.2",
@@ -36,6 +37,7 @@
     "cypress": "^10.3.0",
     "eslint": "^8.19.0",
     "eslint-plugin-cypress": "^2.12.1",
+    "gh-pages": "^4.0.0",
     "https-localhost": "^4.7.1",
     "markdown-it-link-attributes": "^4.0.0",
     "markdown-it-prism": "^2.2.4",
