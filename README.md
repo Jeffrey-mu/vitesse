@@ -119,10 +119,10 @@ As this template is strongly opinionated, the following provides a curated list 
 
 ###### Official
 
-- [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse
-- [vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3
-- [vitesse-nuxt-bridge](https://github.com/antfu/vitesse-nuxt-bridge) - Vitesse for Nuxt 2 with Bridge
-- [vitesse-webext](https://github.com/antfu/vitesse-webext) - WebExtension Vite starter template
+- [vitesse-lite](https://github.com/Jeffrey-mu/vitesse-lite) - Lightweight version of Vitesse
+- [vitesse-nuxt3](https://github.com/Jeffrey-mu/vitesse-nuxt3) - Vitesse for Nuxt 3
+- [vitesse-nuxt-bridge](https://github.com/Jeffrey-mu/vitesse-nuxt-bridge) - Vitesse for Nuxt 2 with Bridge
+- [vitesse-webext](https://github.com/Jeffrey-mu/vitesse-webext) - WebExtension Vite starter template
 
 ###### Community
 
@@ -142,7 +142,7 @@ As this template is strongly opinionated, the following provides a curated list 
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/antfu/vitesse/generate).
+[Create a repo from this template on GitHub](https://github.com/Jeffrey-mu/vitesse/generate).
 
 ### Clone to local
 
